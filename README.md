@@ -13,12 +13,12 @@
 -   git rm para eliminar archivos del stage
 
 # COMPAÑEROS DE CLASE
-| NOMBRE | GIHUB |
-| ISSAM | https://github.com/issam49 |
-| Darío De La Hoz | https://github.com/dariohoz | 
-| Manuel Prieto | https://github.com/maprial2 |
-| Avatar Leilane Almeida | https://github.com/leilane13 |
-| Eneko Lakasta | https://github.com/enekid |
-| Daniel Molina | https://github.com/dmolinac |
-| Andrés F | https://github.com/andresuah |
-| Joseph Reyes | https://github.com/jossjack |
+|NOMBRE|GIHUB|
+|ISSAM|https://github.com/issam49|
+|Darío De La Hoz|https://github.com/dariohoz|
+|Manuel Prieto|https://github.com/maprial2|
+|Avatar Leilane Almeida|https://github.com/leilane13|
+|Eneko Lakasta|https://github.com/enekid|
+|Daniel Molina|https://github.com/dmolinac|
+|Andrés F|https://github.com/andresuah|
+|Joseph Reyes|https://github.com/jossjack|
