@@ -14,6 +14,7 @@
 
 # COMPAÑEROS DE CLASE
 |NOMBRE|GIHUB|
+|------|----:|
 |ISSAM|https://github.com/issam49|
 |Darío De La Hoz|https://github.com/dariohoz|
 |Manuel Prieto|https://github.com/maprial2|
